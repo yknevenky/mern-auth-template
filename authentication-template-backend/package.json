@@ -1,0 +1,15 @@
+{
+  "name": "authentication-template-backend",
+  "version": "1.0.0",
+  "description": "Complete node-js authentication template for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs-authentication",
+    "nodejs-authorization"
+  ],
+  "author": "Venkatesan C",
+  "license": "ISC"
+}
